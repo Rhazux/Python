@@ -21,12 +21,13 @@
   <script>
     (function () {
       const el = document.getElementById('kozaku');
+      // Na tučné
       el.addEventListener('mouseenter', () => {
         el.classList.remove('bold');
         el.classList.add('italic');
       });
 
-      // při odjetí myší: zpět na tučné
+      // Z tučného
       el.addEventListener('mouseleave', () => {
         el.classList.remove('italic');
         el.classList.add('bold');
@@ -34,5 +35,4 @@
     })();
   </script>
 </body>
-
 </html>
