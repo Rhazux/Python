@@ -1,3 +1,4 @@
+<img width="796" height="175" alt="image" src="https://github.com/user-attachments/assets/0d952786-095f-420c-8a8a-4be967b80b14" />
 # Dokumentace tříd `PDU` a `EthFrame`
 
 Tento projekt ukazuje objektový návrh dvou tříd používaných pro jednoduchou simulaci síťové komunikace v Pythonu.  
